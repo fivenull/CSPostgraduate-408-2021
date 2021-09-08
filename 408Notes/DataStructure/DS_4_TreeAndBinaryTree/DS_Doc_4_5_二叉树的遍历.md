@@ -1,4 +1,7 @@
-# 二叉树的先中后序遍历
+---
+title: 二叉树的先中后序遍历
+---
+ 
 
 什么是遍历？
 
@@ -37,5 +40,3 @@
 ### 代码实现
 
 ![image-20200805191445914](https://tva1.sinaimg.cn/large/007S8ZIlly1ghg5f1pfwcj31ju0u04qq.jpg)
-<!-- 评论模块，不可删除 -->
-<Vssue  />

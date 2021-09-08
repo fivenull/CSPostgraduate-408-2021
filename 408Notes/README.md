@@ -1,27 +1,30 @@
 ---
 home: true
 heroImage: /icons@2x.png
-heroText: 2021 计算机考研 408 专业课
-tagline: 2021-CSPostgraduate-408
+heroText: 一研为定！一战成硕！
+tagline: 计算机考研 408 专业课 
 actionText: 开始阅读 →
-actionLink: /DataStructure/
+actionLink: /操作系统/OS_1_绪论/OS_1_1_基本概念
 footer: GPL Licensed | Copyright © 2020-present Kim Yang
 ---
+
 <div align="center">
 
-![DataStructure](https://img.shields.io/static/v1?label=&message=DataStructure&color=brightgreen) 
+
+![Top Language](https://img.shields.io/github/languages/top/KimYangOfCat/2021-CSPostgraduate-408?color=F8008E)
+![DataStructure](https://img.shields.io/static/v1?label=&message=DataStructure&color=brightgreen)
 ![ComputerOrganization](https://img.shields.io/static/v1?label=&message=ComputerOrganization&color=blueviolet)
 ![ComputerNetWork](https://img.shields.io/static/v1?label=&message=ComputerNetWork&color=blue)
 ![OperatingSystem](https://img.shields.io/static/v1?label=&message=OperatingSystem&color=important)
 
 </div>
 
-
 本仓库主要记录了 CS 考研 408 专业课的一些真题资料、笔记、思维导图以及算法源码。
 
 关于项目的介绍博文：[Blog](https://kimyang.cn/posts/2020-08-31-408.html) 、[CSDN](https://blog.csdn.net/weixin_43316691/article/details/108634030) 、[知乎](https://zhuanlan.zhihu.com/p/249377361) 。
 
 ## 21年考408的院校(信息来源于网络，更准确的信息请于各高校官网查询)
+
 ### 985高校
 
 |                                               浙江大学                                                |                                                 上海交通大学                                                 |                                                同济大学                                                |                                                中国科学技术大学                                                |                                           武汉大学【新增】                                            |
@@ -132,7 +135,7 @@ footer: GPL Licensed | Copyright © 2020-present Kim Yang
 
 ## 教材
 
-|                                      数据结构<br/> 严薇敏                                       | 计算机组成原理 <br/>唐朔飞                                                                            | 操作系统 <br/>汤子瀛                                                                            | 计算机网络 <br/>谢希仁                                                                            | 计算机网络<br/>自顶向下方法                                                                                    |
+|                                      数据结构<br/> 严蔚敏                                       | 计算机组成原理 <br/>唐朔飞                                                                            | 操作系统 <br/>汤子瀛                                                                            | 计算机网络 <br/>谢希仁                                                                            | 计算机网络<br/>自顶向下方法                                                                                    |
 | :---------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | ![数据结构](https://cdn.jsdelivr.net/gh/KimYangOfCat/CSPostgraduate-408-2021/imgs/book/DS0.jpg) | ![计算机组成原理](https://cdn.jsdelivr.net/gh/KimYangOfCat/CSPostgraduate-408-2021/imgs/book/CO0.jpg) | ![操作系统](https://cdn.jsdelivr.net/gh/KimYangOfCat/CSPostgraduate-408-2021/imgs/book/OS0.png) | ![计算机网络](https://cdn.jsdelivr.net/gh/KimYangOfCat/CSPostgraduate-408-2021/imgs/book/CN1.png) | ![计算机网络·自顶向下方法](https://cdn.jsdelivr.net/gh/KimYangOfCat/CSPostgraduate-408-2021/imgs/book/CN0.jpg) |
 
@@ -144,9 +147,16 @@ footer: GPL Licensed | Copyright © 2020-present Kim Yang
 ## 笔记
 
  笔记是由 Github pages 服务托管的，使用的是 `VuePress` 静态博客框架生成，你可以通过 [408.kimyang.cn](https://408.kimyang.cn) 域名来访问生成的 Web 页面笔记，
- 
- 此外，后续更新的笔记将会持续发布在 [ **wiki**](https://github.com/KimYangOfCat/CSPostgraduate-408-2021/wiki) 中，大家一起加油冲鸭 🦆 。
 
+## 工具说明
+
+### 思维导图
+
+所有以 `.xmind` 结尾的文件均是作者使用 `XMind` 软件制作出来的思维导图源文件，故推荐使用正版软件打开相关思维导图文件。
+
+### IDE
+
+书写并运行源码使用的 IDE 是 `CLion`，其主要的配置文件是仓库根目录下的 `CMakeLists.txt` 文件。
 ## 下载：
 
 ### 下载命令：
@@ -188,12 +198,14 @@ footer: GPL Licensed | Copyright © 2020-present Kim Yang
 ## 🍰 赞赏
 如果你觉得本仓库帮助到了你，欢迎你点击上方的
 [Sponsor](https://cdn.jsdelivr.net/gh/KimYangOfCat/KimYangOfCat/img/sponsor.png)
-按钮来赞赏我并备注你的个人 ID，这将会给我更多更新的动力，感谢～
+按钮来赞赏我并备注你的个人 ID 或者留下你想说的话，这将会给我更多更新的动力，感谢～
 
 ## ❤️ 致谢
 |捐赠人|金额|日期|备注|
-|-|-|-|-|
-|E*t|10元|2021-05-19|非常感谢|
+|:--|:--|:--|:--|
+|E*t|10 元|2021-05-19|非常感谢|
+|*醋|10 元|2021-08-20|21 年厦大也是 408|
+|*|10 元|2021-09-05|NULL|
 
 ## 许可证
 

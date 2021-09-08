@@ -1,5 +1,8 @@
-# 顺序表
-##顺序表的基本概念
+---
+title: 顺序表
+---
+  
+## 顺序表的基本概念
 
 ![image-20200617172240151](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810002154.jpg)
 
@@ -200,5 +203,3 @@ int LocateElem(SeqList L,int e){
 
 ![image-20200618215837154](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810002215.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />

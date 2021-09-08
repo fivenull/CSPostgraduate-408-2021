@@ -1,4 +1,7 @@
-# 顺序栈
+---
+title: 顺序栈
+---
+  
 
 ![image-20200624151201362](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810010154.jpg)
 
@@ -40,5 +43,3 @@
 
 ![image-20200624152849214](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810010316.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />

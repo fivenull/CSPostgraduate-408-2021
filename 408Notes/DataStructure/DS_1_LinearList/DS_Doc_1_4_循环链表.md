@@ -1,4 +1,7 @@
-# 循环链表
+---
+title: 循环链表
+---
+  
 
 ![image-20200620160012077](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810005122.jpg)
 
@@ -36,5 +39,3 @@
 
 ![image-20200620161033347](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810005803.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />

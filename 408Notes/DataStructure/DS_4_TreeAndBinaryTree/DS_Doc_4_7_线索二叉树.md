@@ -1,4 +1,7 @@
-# 线索二叉树
+---
+title: 线索二叉树
+---
+ 
 
 ![image-20200810110140084](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810110140.png)
 
@@ -41,5 +44,3 @@
 ## 总结回顾
 
 ![image-20200810134838622](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810134838.png)
-<!-- 评论模块，不可删除 -->
-<Vssue  />

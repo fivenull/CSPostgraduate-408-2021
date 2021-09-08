@@ -1,4 +1,7 @@
-# 串
+---
+title: 串
+---
+  
 
 ![image-20200803212400697](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810012004.jpg)
 
@@ -22,5 +25,3 @@
 
 ![image-20200803215953538](https://tva1.sinaimg.cn/large/007S8ZIlly1ghdyy8zrrwj31sq0u0qv5.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />

@@ -1,4 +1,7 @@
-# 双端队列
+---
+title: 双端队列
+---
+  
 
 ![image-20200624161331529](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810011030.jpg)
 
@@ -31,5 +34,4 @@
 ## 总结
 
 ## ![image-20200624162951819](https://tva1.sinaimg.cn/large/007S8ZIlly1gg3gmivt6mj30xv09ddla.jpg)
-<!-- 评论模块，不可删除 -->
-<Vssue  />
+

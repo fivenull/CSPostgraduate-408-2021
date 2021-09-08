@@ -1,4 +1,7 @@
-# 算法基本概念
+---
+title: 算法基本概念
+---
+  
 
 ## 基本概念
 
@@ -130,5 +133,3 @@
 
 ![image-20200617003857723](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810001418.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />

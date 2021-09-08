@@ -1,4 +1,7 @@
-# 二叉树的存储结构
+---
+title: 二叉树的存储结构
+---
+  
 
 ## 顺序存储
 
@@ -29,5 +32,3 @@
 
 ![image-20200805185553685](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810013603.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />

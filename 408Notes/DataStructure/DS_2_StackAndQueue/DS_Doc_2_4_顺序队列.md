@@ -1,4 +1,7 @@
-# 顺序队列
+---
+title: 顺序队列
+---
+ 
 
 ![image-20200624154351327](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810010502.jpg)
 
@@ -51,5 +54,3 @@
 ## 总结
 
 ![image-20200624160059508](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810010648.jpg)
-<!-- 评论模块，不可删除 -->
-<Vssue  />

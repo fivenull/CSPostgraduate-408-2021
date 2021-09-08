@@ -1,4 +1,7 @@
-# 队列的应用
+---
+title: 队列的应用
+---
+  
 
 ## 树的层次遍历
 
@@ -23,5 +26,3 @@
 **打印数据缓冲区**
 
 ![image-20200624201203709](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810011949.jpg)
-<!-- 评论模块，不可删除 -->
-<Vssue  />

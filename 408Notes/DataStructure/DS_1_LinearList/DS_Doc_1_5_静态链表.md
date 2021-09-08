@@ -1,4 +1,7 @@
-# 静态链表
+---
+title: 静态链表
+---
+  
 
 ![image-20200620161229028](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810005810.jpg)
 
@@ -28,5 +31,3 @@
 
 ![image-20200620162709709](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810005841.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />

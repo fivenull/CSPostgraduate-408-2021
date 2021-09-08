@@ -1,4 +1,7 @@
-# 栈
+---
+title: 栈
+---
+  
 
 ![image-20200624150012426](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810010108.jpg)
 
@@ -22,5 +25,4 @@
 
 ![image-20200624151001874](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810010144.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />
+

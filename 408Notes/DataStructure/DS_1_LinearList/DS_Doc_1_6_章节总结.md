@@ -1,4 +1,7 @@
-# 线性表章节复习反思
+---
+title: 线性表章节复习反思
+---
+  
 
 ![image-20200620162832052](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810005922.jpg)
 
@@ -40,5 +43,3 @@
 
 ![image-20200620164325277](https://cdn.jsdelivr.net/gh/KimYangOfCat/MyPicStorage/2021-CSPostgraduate-408/20200810010012.jpg)
 
-<!-- 评论模块，不可删除 -->
-<Vssue  />
